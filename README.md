@@ -3,6 +3,8 @@ tools
 
 All Tools for S/W Developments
 
+* Dependencies: fabric
+
 Screenshot
 ==========
 * Dependencies: phantomjs, casperjs
