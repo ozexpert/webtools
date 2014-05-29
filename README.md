@@ -7,6 +7,8 @@ All Tools for S/W Developments
 
 Screenshot
 ==========
+Generates screenshots which can be used to generate mobile device mockup (using a service like mockuphone.com or shapeitapp.com) 
+
 * Dependencies: phantomjs, casperjs
 * forked from https://gist.github.com/nhoizey/4060568
 
