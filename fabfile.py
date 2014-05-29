@@ -1,5 +1,6 @@
 from fabric.api import local, settings
 
 
-def screenshot():
-    local("casperjs ./js/screenshots.js http://google.com")
+def screenshot(url):
+    """ generate screenshot for given url """
+    local("casperjs ./js/screenshots.js %s" % url)
